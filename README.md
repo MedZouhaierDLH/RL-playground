@@ -10,11 +10,11 @@ While the foundation comes from **Berkeley’s CS285: Deep Reinforcement Learnin
 
 ## Tracking Progress
 
-### CS285: Deep RL (Berkeley)
+### CS285: Deep RL (Berkeley) [course page](https://rail.eecs.berkeley.edu/deeprlcourse-fa19/)
 The course covers the essentials of RL: **policy gradients, Q-learning, actor-critic methods**, and other core concepts.
 
 **Lecture Completion:**  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (11/23 lectures done)
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (4/23 lectures done)
 
 **Homework & Implementations:**  
 - **HW1:** Imitation Learning  
@@ -33,7 +33,3 @@ This section is reserved for RL experiments that extend past the CS285 curriculu
 - Paper reproductions and novel experiments  
 
 *(Work in progress — will grow over time.)*
-
----
-
-## Suggested Structure
