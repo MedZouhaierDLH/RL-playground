@@ -1,4 +1,4 @@
-# RL-Playground: Exploring Deep Reinforcement Learning 🚀
+# RL-Playground: Learning Deep RL from the Ground Up 🎮
 
 ## About this Repo
 **RL-Playground** is my personal sandbox for learning and experimenting with **Deep Reinforcement Learning (RL)**.  
