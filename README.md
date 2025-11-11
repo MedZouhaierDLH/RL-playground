@@ -2,7 +2,7 @@
 
 ## About this Repo
 **RL-Playground** is my personal sandbox for learning and experimenting with **Deep Reinforcement Learning (RL)**.  
-Here, I implement RL algorithms from scratch using **PyTorch / JAX**, reproduce ideas from important papers, and deepen my understanding of both theory and practice.  
+Here, I implement RL algorithms from scratch using **PyTorch**, reproduce ideas from important papers, and deepen my understanding of both theory and practice.  
 
 While the foundation comes from **Berkeley’s CS285: Deep Reinforcement Learning**, this repo is designed to go **far beyond the course**, giving me room to explore advanced RL techniques, new environments, and research-inspired projects.
 
