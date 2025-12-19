@@ -17,7 +17,7 @@ The course covers the essentials of RL: **policy gradients, Q-learning, actor-cr
 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (4/23 lectures done)
 
 **Lecture Write-ups:**  
-[L4 - write-up](https://equatorial-range-599.notion.site/Notes-Lecture4-2a1996065340806f9c27fcac3e8ee652?source=copy_link)
+* [L4 - write-up](https://equatorial-range-599.notion.site/Notes-Lecture4-2a1996065340806f9c27fcac3e8ee652?source=copy_link)
 
 **Homework & Implementations:**  
 - **HW1:** Imitation Learning  
